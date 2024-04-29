@@ -1,0 +1,16 @@
+body{
+    background-color: slateblue;
+}
+span{
+    display: flex;
+}
+.divClass{
+    width: 40%;
+    border:2px solid;
+    margin-left: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 50px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+}
