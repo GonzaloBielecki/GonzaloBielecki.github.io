@@ -1,20 +1,42 @@
 body{
     background-color: slateblue;
 }
-h1{
-    font-size: xx-large;
-   
-    font-family: fantasy;
-    width: 30%;
-    height: 20%;
-    margin-left: 30%;
-    margin-right: 40%;
-    margin-bottom: 35px;
-    border: 2px solid;
-    padding-left: 100px;
-    padding-right: 100px;
-    
+header{
+        width: 100%;
+        height: 15%;
+        
+        display: flex;
+        background-color: rgba(233, 205, 255, 0.432);
+        margin-bottom: 50px;
 }
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 300px;
+}
+.titulo{
+    width: 400px;
+
+}
+.barraMenu{
+    display: flex;
+    
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.objetoMenu{
+    width: 150px;
+    height: 35px;
+    background-color: aqua;
+    border: 1px solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}   
+
+    
+
 span{
     display: flex;
 }
