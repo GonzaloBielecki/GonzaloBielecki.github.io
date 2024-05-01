@@ -73,6 +73,19 @@ div{
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    
+}
+.tituloRedes{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+.redesSociales{
+    width: 100%;
+    margin-left: 100px;
+    margin-bottom: 50px;
 
+}
+.bi{
+    font-size: 60px;
+    margin: 10px 20px;
 }
