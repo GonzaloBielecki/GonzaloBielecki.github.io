@@ -1,5 +1,5 @@
 body{
-    background-color: slateblue;
+    background-color: rgb(15, 48, 70);
 }
 h2,p,h1{
     margin-left: 50px;
@@ -9,9 +9,10 @@ header{
         height: 15%;
         
         display: flex;
-        background-color: rgba(233, 205, 255, 0.432);
+        background-color: rgba(155, 168, 197, 0.733);
         margin-bottom: 50px;
         margin-top: 0px;
+        border-color: black;
 }
 .logo{
     width: 100px;
@@ -29,24 +30,18 @@ header{
     margin-left: 100px;
     margin-top: 50px;
 }
-.objetoMenu{
-    width: 150px;
-    height: 35px;
-    background-color: aqua;
-    border: 1px solid;
-    margin-left: 10px;
-    margin-right: 10px;
-    
-}   
+
 
     
 
 .bloqueGeneral{
+    background-color: rgba(155, 168, 197, 0.733);
     width: 900px;
     margin: 0 auto;
     border: 5px solid;
     border-style: outset;
     border-radius: 10px;
+    border-color: slateblue;
     
   
 }
@@ -60,6 +55,7 @@ div{
     margin: 10px auto;
     border-style: inset;
     border-radius: 10px;
+    border-color: slateblue;
 
     
 }
