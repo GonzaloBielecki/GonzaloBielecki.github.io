@@ -22,17 +22,13 @@ header{
 }
 .titulo{
     width: 400px;
-
-}
-.barraMenu{
-    display: flex;
-    
-    margin-left: 100px;
-    margin-top: 50px;
 }
 
 
-    
+div{
+    font-size: larger;
+    font-family: fantasy;
+}    
 
 .bloqueGeneral{
     background-color: rgba(155, 168, 197, 0.733);
@@ -45,10 +41,9 @@ header{
     
   
 }
-div{
-    font-size: larger;
-    font-family: fantasy;
-}
+
+
+
 .divClass{
     width: 600px;
     border:2px solid;
@@ -58,6 +53,16 @@ div{
     border-color: slateblue;
 
     
+}
+.tituloPorfolio{
+    display: inline-block;
+    width: 100%;
+    
+    border: 2px solid;
+}
+.tituloPrincipal{
+    margin-left: 300px;
+    font-size: 50px;
 }
 .perfilImagen{
     width: 500px;
