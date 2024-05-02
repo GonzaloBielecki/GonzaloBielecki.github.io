@@ -3,6 +3,9 @@ body{
 }
 ul,p,h1{
     margin-left: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
 
 }
 h2 {
@@ -43,6 +46,7 @@ div{
     border-radius: 10px;
     border-color: slateblue;
     
+    
   
 }
 
@@ -51,7 +55,7 @@ div{
 .divClass{
     width: 600px;
     border:2px solid;
-    margin: 10px auto;
+    margin: 30px auto;
     border-style: inset;
     border-radius: 10px;
     border-color: slateblue;
