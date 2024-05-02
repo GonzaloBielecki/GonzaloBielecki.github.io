@@ -34,17 +34,19 @@ div{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 20px;
+    font-size: 22px;
 }    
 
 .bloqueGeneral{
     background-color: rgba(155, 168, 197, 0.733);
     width: 900px;
     margin: 0 auto;
-    border: 5px solid;
+    border: 6px solid;
     border-style: outset;
     border-radius: 10px;
     border-color: slateblue;
+    border-right: 12px solid ;
+    border-right-color: slateblue;
     
     
   
@@ -54,11 +56,13 @@ div{
 
 .divClass{
     width: 600px;
-    border:2px solid;
+    border:3px solid;
     margin: 30px auto;
     border-style: inset;
     border-radius: 10px;
     border-color: slateblue;
+    border-right: 6px solid;
+    border-right-color: slateblue;
 
     
 }
