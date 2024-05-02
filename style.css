@@ -1,8 +1,12 @@
 body{
     background-color: rgb(15, 48, 70);
 }
-h2,p,h1{
+ul,p,h1{
     margin-left: 50px;
+
+}
+h2 {
+    margin-left: 15px;
 }
 header{
         width: 100%;
@@ -54,26 +58,32 @@ div{
 
     
 }
+.bloqueInicial{
+    display: flex;
+    margin-bottom: 50px;
+}
 .tituloPorfolio{
     display: inline-block;
     width: 100%;
     
-    border: 2px solid;
+    
 }
 .tituloPrincipal{
     margin-left: 300px;
     font-size: 50px;
 }
 .perfilImagen{
-    width: 500px;
-    margin: 10px auto;
-    border: 1px solid;
-    display: flex
+    margin-left: 20px;
+    width: 100px;
+    margin-top: 20px;
+    
+ 
+  
 }
 #imagenPerfil{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
 }
 .tituloRedes{
     width: 100%;
